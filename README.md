@@ -4,14 +4,14 @@
 
 ## 1.Hafta
 ### 22.04.2019 Pazartesi
--Ders İşleyişinin Örneklendirilmesi
--Github Kullanımı
+- Ders İşleyişinin Örneklendirilmesi
+- Github Kullanımı
 
 ### 23.04.2019 Salı
--23 Nisan dolayısıyla eğitim yapılmayacaktır.
+- 23 Nisan dolayısıyla eğitim yapılmayacaktır.
 
 ### 24.04.2019 Çarşamba
--Android Studio Kurulumu
+- Android Studio Kurulumu
 
 ## 2. Hafta
 ### 29.04.2019 Pazartesi
